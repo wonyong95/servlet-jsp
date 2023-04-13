@@ -30,7 +30,7 @@
     	//"/"example/ex09_request.jsp"
     	String proto=request.getProtocol();
     	
-    	int index=path.lastIndexOf(".jspx");
+    	int index=path.lastIndexOf(".jsp");
     	//검색한 문자열을 뒤에서 부터 찾아서 해당 인덱스 번호를 반환한다. 검색결과 없으면 -1을 반환한다
     	System.out.println(index);
     	if(index>0){
