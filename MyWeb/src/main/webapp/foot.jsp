@@ -12,7 +12,7 @@
                     <li><a href="<%=myctx%>/example/ex07_error.jsp">에러 처리</a></li>
                     <li><a href="<%=myctx%>/example/ex08_request.jsp">request1</a></li>
                     <li><a href="<%=myctx%>/example/ex09_request.jsp?keyword=java&pageNum=1">request2</a></li>
-                    <li><a href="<%=myctx%>/example/ex10_response.jsp">request2</a></li>
+                    <li><a href="<%=myctx%>/example/ex10_response.jsp">response</a></li>
                     <li><a href="<%=myctx%>/">Menu3</a></li>
                     <li><a href="<%=myctx%>/">Menu4</a></li>
                 </ul>
