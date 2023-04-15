@@ -30,69 +30,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/main/webapp/ex43layout.html</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/ex43layout.html</location>
+			<name>src/main/java</name>
+			<type>2</type>
+			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb (3)/src/main/java</location>
 		</link>
 		<link>
-			<name>src/main/java/Memo/MemoAddServlet.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoAddServlet.java</location>
-		</link>
-		<link>
-			<name>src/main/java/Memo/MemoDAO.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoDAO.java</location>
-		</link>
-		<link>
-			<name>src/main/java/Memo/MemoDeleteServlet.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoDeleteServlet.java</location>
-		</link>
-		<link>
-			<name>src/main/java/Memo/MemoEditFormServlet.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoEditFormServlet.java</location>
-		</link>
-		<link>
-			<name>src/main/java/Memo/MemoEditServlet.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoEditServlet.java</location>
-		</link>
-		<link>
-			<name>src/main/java/Memo/MemoListServlet.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoListServlet.java</location>
-		</link>
-		<link>
-			<name>src/main/java/Memo/MemoVO.java</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/java/memo/app/MemoVO.java</location>
-		</link>
-		<link>
-			<name>src/main/webapp/css/layout.css</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/webapp/css/layout.css</location>
-		</link>
-		<link>
-			<name>src/main/webapp/css/memo.css</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/webapp/css/memo.css</location>
-		</link>
-		<link>
-			<name>src/main/webapp/memo/edit.jsp</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/webapp/memo/edit.jsp</location>
-		</link>
-		<link>
-			<name>src/main/webapp/memo/input.html</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/webapp/memo/input.html</location>
-		</link>
-		<link>
-			<name>src/main/webapp/memo/list.jsp</name>
-			<type>1</type>
-			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb/src/main/webapp/memo/list.jsp</location>
+			<name>src/main/webapp</name>
+			<type>2</type>
+			<location>C:/Users/YOUNG/Desktop/백엔드/서블렛/MyWeb (3)/src/main/webapp</location>
 		</link>
 	</linkedResources>
 </projectDescription>
